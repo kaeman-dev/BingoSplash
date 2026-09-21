@@ -3,7 +3,8 @@
   "package": "cc.me0wo.bingosplash.mixin",
   "compatibilityLevel": "JAVA_25",
   "client": [
-    "GlyphRenderStateMixin"
+    "GlyphRenderStateMixin",
+    "GlyphRenderStateMixin$GlyphStyle"
   ],
   "injectors": {
     "defaultRequire": 1
