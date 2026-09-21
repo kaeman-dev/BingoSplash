@@ -2,6 +2,17 @@
   "providers": [
     {
       "type": "ttf",
+      "file": "bingosplash:noto_emoji.ttf",
+      "shift": [
+        0,
+        0
+      ],
+      "size": 11,
+      "oversample": 4.0,
+      "skip": "\u0000\r #*0123456789"
+    },
+    {
+      "type": "ttf",
       "file": "bingosplash:source_han_sans.ttf",
       "shift": [
         0,
