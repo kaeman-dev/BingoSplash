@@ -1,0 +1,22 @@
+{
+  "text.config.bingosplash.title": "BingoSplash Config",
+  "text.config.bingosplash.section.general": "General",
+  "text.config.bingosplash.option.enabled": "Enabled",
+  "text.config.bingosplash.option.text": "Default Text",
+  "text.config.bingosplash.option.icon": "Icon",
+  "text.config.bingosplash.option.actions": "Icon Actions",
+  "text.config.bingosplash.option.sounds": "Sounds",
+  "text.config.bingosplash.section.animation": "Animation",
+  "text.config.bingosplash.option.holdMs": "Hold Time (ms)",
+  "text.config.bingosplash.option.rockDegrees": "Rock Angle (°)",
+  "text.config.bingosplash.option.debug": "Debug Logging",
+  "ui.bingosplash.none": "None",
+  "ui.bingosplash.phase.idle": "Idle",
+  "ui.bingosplash.phase.enter": "Entering",
+  "ui.bingosplash.phase.hold": "Displaying",
+  "ui.bingosplash.phase.exit": "Exiting",
+  "message.bingosplash.disabled": "[BingoSplash] Disabled. The message was not queued.",
+  "message.bingosplash.queued": "[BingoSplash] #%s queued · Waiting %s · Current %s (%s)",
+  "message.bingosplash.queue_stats": "Received %s · Completed %s · Failed %s · Current elapsed %s ms",
+  "message.bingosplash.queue_failed": "[BingoSplash] Could not queue the message. Check the log."
+}

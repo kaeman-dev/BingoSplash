@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "cc.me0wo.bingosplash.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "GlyphRenderStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

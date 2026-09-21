@@ -1,0 +1,22 @@
+{
+  "text.config.bingosplash.title": "BingoSplash 配置",
+  "text.config.bingosplash.section.general": "通用",
+  "text.config.bingosplash.option.enabled": "启用",
+  "text.config.bingosplash.option.text": "默认文字",
+  "text.config.bingosplash.option.icon": "图标",
+  "text.config.bingosplash.option.actions": "图标动作",
+  "text.config.bingosplash.option.sounds": "音效",
+  "text.config.bingosplash.section.animation": "动画",
+  "text.config.bingosplash.option.holdMs": "停留时长 (毫秒)",
+  "text.config.bingosplash.option.rockDegrees": "摇晃角度 (°)",
+  "text.config.bingosplash.option.debug": "调试日志",
+  "ui.bingosplash.none": "无",
+  "ui.bingosplash.phase.idle": "空闲",
+  "ui.bingosplash.phase.enter": "入场中",
+  "ui.bingosplash.phase.hold": "展示中",
+  "ui.bingosplash.phase.exit": "退场中",
+  "message.bingosplash.disabled": "[BingoSplash] 当前已停用，消息未加入队列。",
+  "message.bingosplash.queued": "[BingoSplash] #%s 已加入队列 · 等待 %s · 当前 %s（%s）",
+  "message.bingosplash.queue_stats": "已接收 %s · 已完成 %s · 失败 %s · 当前已播放 %s 毫秒",
+  "message.bingosplash.queue_failed": "[BingoSplash] 消息入队失败，请查看日志。"
+}
